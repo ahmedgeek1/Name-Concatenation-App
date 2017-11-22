@@ -1,0 +1,18 @@
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\bin\Debug\Assessment 3B.exe.config
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\bin\Debug\Assessment 3B.exe
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\bin\Debug\Assessment 3B.pdb
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.csprojResolveAssemblyReference.cache
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\obj\Debug\Assessment_3B.Form1.resources
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\obj\Debug\Assessment_3B.Properties.Resources.resources
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.csproj.GenerateResource.Cache
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.exe
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.pdb
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\bin\Debug\Assessment 3B.exe.config
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.exe
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.pdb
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\bin\Debug\Assessment 3B.exe
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\bin\Debug\Assessment 3B.pdb
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.csprojResolveAssemblyReference.cache
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\obj\Debug\Assessment_3B.Form1.resources
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\obj\Debug\Assessment_3B.Properties.Resources.resources
+C:\Users\24210285\Downloads\Week 3 Assignments all\Week 3 Assignments\Assessment 3B\Assessment 3B\obj\Debug\Assessment 3B.csproj.GenerateResource.Cache
